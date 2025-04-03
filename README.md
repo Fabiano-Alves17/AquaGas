@@ -1,4 +1,4 @@
-# AquaGas
+# AquaGás
 
 ## Introdução
 Este projeto de extensão oferece uma experiência prática e colaborativa na criação de um sistema para gerenciar o estoque de gás. Nele, os participantes vão colocar em prática conceitos importantes de sistemas distribuídos, segurança da informação e outros tópicos, além de desenvolver suas habilidades de programação. Mais do que apenas aprender a parte técnica, a atividade estimula o trabalho em equipe e a solução de problemas reais, ajudando a preparar os envolvidos para desafios do dia a dia na gestão de estoques e logística.
