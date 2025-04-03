@@ -28,6 +28,9 @@ Canva.
 ## Equipe:
 
 Ana Clara Vasconcelos
+
 Breno Victor
+
 Fabiano de Melo Alves Filho
+
 Vitória Damascena
