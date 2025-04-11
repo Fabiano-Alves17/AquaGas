@@ -27,10 +27,10 @@ Canva.
 
 ## Equipe:
 
-Ana Clara Vasconcelos
+Ana Clara Vasconcelos dos Santos
 
 Breno Victor Duarte Ferraz
 
 Fabiano de Melo Alves Filho
 
-Vitória Damascena
+Vitória Damascena Pires
