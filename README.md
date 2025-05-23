@@ -9,7 +9,7 @@ Aqui são apresentadas todas as documentações que foram construídas ao decorr
 ### Link para os documentos:
 [Protótipo do Projeto](https://colab.research.google.com/drive/1rYrBDFDzPm1-Ry5rmZ8G69Y6Fa-IZ6wU?usp=sharing&authuser=1) //
 [Pauta das Reuniões](https://docs.google.com/document/d/1GutlWcdsHpsSCHB3dkuom7uqxFijP25m/edit?usp=sharing&ouid=101417349461532347806&rtpof=true&sd=true) //
-[Design da Interface](https://www.figma.com/design/Zvzin7pYuKjwh2kQBf2I88/AquaG%C3%A1s?node-id=0-1&t=CQbROQLYdZ6XZnUK-1)
+[Design da Interface](https://aquagas.my.canva.site/projext)
 
 ## Linguagens utilizadas
 Python.
