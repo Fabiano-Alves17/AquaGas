@@ -7,7 +7,7 @@ Este projeto de extensão oferece uma experiência prática e colaborativa na cr
 Aqui são apresentadas todas as documentações que foram construídas ao decorrer período de formação do projeto.
 
 ### Link para os documentos:
-[Protótipo do Projeto](https://github.com/Fabiano-Alves17/AquaGas/blob/main/index.html) //
+[Protótipo do Projeto](https://fabiano-alves17.github.io/SiteAquaGas/) //
 [Pauta das Reuniões](https://docs.google.com/document/d/1GutlWcdsHpsSCHB3dkuom7uqxFijP25m/edit?usp=sharing&ouid=101417349461532347806&rtpof=true&sd=true) //
 [Design da Interface](https://aquagas.my.canva.site/projext)
 
