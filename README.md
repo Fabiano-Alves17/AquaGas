@@ -12,6 +12,12 @@ Aqui são apresentadas todas as documentações que foram construídas ao decorr
 [Design da Interface](https://aquagas.my.canva.site/projext)
 
 ## Linguagens utilizadas
+HTML;
+
+CSS;
+
+JavaScript;
+
 Python.
 
 ## Ferramentas utilizadas
